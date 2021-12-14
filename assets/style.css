@@ -1,0 +1,8 @@
+.custom-navbar {
+    background-color: rgb(60, 60, 224);
+  }
+  
+  .custom-navbar a {
+    font-size: 1.5rem;
+    color: white;
+  }
